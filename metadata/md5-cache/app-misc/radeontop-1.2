@@ -1,0 +1,15 @@
+DEFINED_PHASES=compile install prepare setup unpack
+DEPEND=x11-libs/libpciaccess:0 x11-libs/libdrm:0 xcb? ( x11-libs/libxcb:0 ) sys-libs/ncurses:0= amdgpu? ( x11-libs/libdrm:0[video_cards_amdgpu] ) virtual/pkgconfig
+DESCRIPTION=Utility to view Radeon GPU utilization
+EAPI=7
+HOMEPAGE=https://github.com/clbr/radeontop
+INHERIT=rindeal git-hosting linux-info arrays
+IUSE=kernel_linux amdgpu xcb
+KEYWORDS=~amd64
+LICENSE=GPL-3
+RDEPEND=x11-libs/libpciaccess:0 x11-libs/libdrm:0 xcb? ( x11-libs/libxcb:0 ) sys-libs/ncurses:0= amdgpu? ( x11-libs/libdrm:0[video_cards_amdgpu] )
+RESTRICT=mirror primaryuri
+SLOT=0
+SRC_URI=https://github.com/clbr/radeontop/archive/v1.2.tar.gz -> github--clbr--radeontop--v1.2.tar.gz
+_eclasses_=portage-functions-patched	3a026583a923364e9ea2f9d2ad323c40	rindeal	3d1ea5c0e7a53613d1ba1ca572b222bd	git-hosting	84f64c6eacd2317de2a33945695bb4ac	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	linux-info	7e8ed4c6a1d136fb291c52386f996c2c	arrays	67c9a6badc2548df5269b316770bacc6
+_md5_=396bf297c1a1f080b7d83b7adebeaef5
