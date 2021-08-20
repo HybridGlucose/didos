@@ -206,13 +206,6 @@ media-gfx/imagemagick:opencl - Enable OpenCL support
 media-gfx/imagemagick:pango - Enable Pango support using x11-libs/pango
 media-gfx/imagemagick:q32 - Set quantum depth value to 32
 media-gfx/imagemagick:q8 - Set quantum depth value to 8
-media-gfx/inkscape:cdr - Enable support for CorelDRAW Diagrams
-media-gfx/inkscape:dia - pull in app-office/dia for dia import extension
-media-gfx/inkscape:inkjar - Enable support for OpenOffice.org SVG jar files
-media-gfx/inkscape:latex - pull in dependencies for LaTeX formulas
-media-gfx/inkscape:uniconvertor - Enable conversion of vector graphic files via media-gfx/uniconvertor (needs Python 2)
-media-gfx/inkscape:visio - Enable support for Microsoft Visio Diagrams
-media-gfx/inkscape:wpg - Enable support for WordPerfect Graphics
 media-gfx/solvespace:spacenav - add spacenav driver
 media-libs/libepoxy:egl - Enable EGL support.
 media-libs/libplacebo:bench - build benchmarks
@@ -688,4 +681,3 @@ www-servers/nginx:pcre-jit - Enable JIT for pcre
 www-servers/nginx:rtmp - NGINX-based Media Streaming Server
 www-servers/nginx:ssl - Enable HTTPS module for http. Enable SSL/TLS support for POP3/IMAP/SMTP for mail.
 x11-terms/kitty:imagemagick - Support displaying images in the terminal with icat
-x11-wm/notion:xrandr - Add support for xrandr
