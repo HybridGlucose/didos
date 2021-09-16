@@ -189,7 +189,6 @@ virtual/wine 0-r7: Virtual for Wine that supports multiple variants and slotting
 www-client/firefox 70.0.1 72.0.2: Firefox Web Browser
 www-client/google-chrome 78.0.3904.70: The web browser from Google
 www-plugins/freshplayerplugin 0.3.9-r1 0.3.9-r2: PPAPI-host NPAPI-plugin adapter for flashplayer in npapi based browsers
-www-servers/nginx 1.4.7-r1 1.6.2 1.7.10 1.7.11 1.7.12 1.8.0: Robust, small and high performance http and reverse proxy server
 x11-libs/kcolorpicker 0.1.4: Qt based Color Picker with popup menu
 x11-libs/kimageannotator 0.3.1: Tool for annotating images
 x11-libs/libfm-qt 0.14.1-r2: Qt port of libfm, a library providing components to build desktop file managers
