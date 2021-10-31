@@ -11,5 +11,5 @@ RDEPEND=mono? ( dev-lang/mono ) system-jre? ( >=virtual/jre-1.8 )
 RESTRICT=mirror strip test
 SLOT=2020.2
 SRC_URI=https://download.jetbrains.com/rider/JetBrains.Rider-2020.2.2.tar.gz
-_eclasses_=portage-functions-patched	3a026583a923364e9ea2f9d2ad323c40	rindeal	3d1ea5c0e7a53613d1ba1ca572b222bd	xdg-utils	27f9a2f19502b925ac117bd657aa2979	xdg	6024fbc93167fad782e2032933654857	desktop	c0d27bf73aa08ca05b663dbd31fbef28	estack	055c42df72f76a4f45ec92b35e83cd56	jetbrains-intellij	c9335417d17169c85923bb1c86f3ada0
+_eclasses_=portage-functions-patched	3a026583a923364e9ea2f9d2ad323c40	rindeal	3d1ea5c0e7a53613d1ba1ca572b222bd	xdg-utils	4f29a8b760a594a212abe9c2ba957c31	xdg	6024fbc93167fad782e2032933654857	desktop	c0d27bf73aa08ca05b663dbd31fbef28	estack	055c42df72f76a4f45ec92b35e83cd56	jetbrains-intellij	c9335417d17169c85923bb1c86f3ada0
 _md5_=87018680fc7622d8a3338227de77078d
