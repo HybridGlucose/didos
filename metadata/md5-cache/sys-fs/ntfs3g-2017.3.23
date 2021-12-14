@@ -11,5 +11,5 @@ RDEPEND=!sys-fs/ntfsprogs crypto? ( >=dev-libs/libgcrypt-1.2.2:0 >=net-libs/gnut
 REQUIRED_USE=ntfsprogs? ( device-default-io-ops )
 SLOT=0/88
 SRC_URI=https://tuxera.com/opensource/ntfs-3g_ntfsprogs-2017.3.23.tgz
-_eclasses_=portage-functions-patched	3a026583a923364e9ea2f9d2ad323c40	rindeal	3d1ea5c0e7a53613d1ba1ca572b222bd	toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	ltprune	4f3f2db5ce3ccbeeacdf3f94954043aa	eapi7-ver	1a0a60ad07c8b32d2faba2d085dc0f24	linux-info	6b67971d8a0a029d13181f2cfb9f5fa9	udev	2d229ad4bfa09058e0184b1ca900db32	libtool	241a8f577b9781a42a7421e53448a44e	arrays	67c9a6badc2548df5269b316770bacc6
+_eclasses_=portage-functions-patched	3a026583a923364e9ea2f9d2ad323c40	rindeal	3d1ea5c0e7a53613d1ba1ca572b222bd	toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	4b66d835ec72e021e359bb81eacfe988	ltprune	4f3f2db5ce3ccbeeacdf3f94954043aa	eapi7-ver	1a0a60ad07c8b32d2faba2d085dc0f24	linux-info	6b67971d8a0a029d13181f2cfb9f5fa9	udev	2d229ad4bfa09058e0184b1ca900db32	libtool	241a8f577b9781a42a7421e53448a44e	arrays	67c9a6badc2548df5269b316770bacc6
 _md5_=99ebd1ac22cf079b46385caf99dd44a7
